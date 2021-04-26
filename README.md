@@ -1,5 +1,12 @@
 # AWS Cloud Practitioner Certification
 
+## Content Outline
+Domain 1: Cloud Concepts 26%
+Domain 2: Security and Compliance 25%
+Domain 3: Technology 33%
+Domain 4: Billing and Pricing 16%
+TOTAL 100%
+
 ## Module 1: Introduction to Amazon Web Services
 - Summarize the benefits of AWS
 - Describe differences between on-demand delivery and cloud deployments
